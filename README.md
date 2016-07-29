@@ -5,7 +5,7 @@ Roll your own spatial data API using PostGIS, Node.js &amp; Express
 This repo is a place to document the Free and Open Source spatial data API stack we have been tinkering with here at DCP.  Someday it will include a simple working example, but for now it's just a readme with some details about the stack.
 
 ##Summary
-The goal was to build simple web API that could run [spatial queries](https://en.wikipedia.org/wiki/Spatial_query) and return [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) Features to the browser (and, of course, to use open source software).  This is acheivable in with a stunningly small amount of code thanks to the many helper packages in the Node.js ecosystem.  This stack is used under the hood in [PostGIS Preview](https://github.com/NYCPlanning/postgis-preview), among other projects here at DCP.
+The goal was to build simple web API that could run [spatial queries](https://en.wikipedia.org/wiki/Spatial_query) and return [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) Features to the browser .  This is acheivable in with a stunningly small amount of code thanks to the many helper packages in the Node.js ecosystem.  This stack is used under the hood in [PostGIS Preview](https://github.com/NYCPlanning/postgis-preview), among other projects here at DCP.
 
 ![presentation1](https://cloud.githubusercontent.com/assets/1833820/17250362/ff5c514e-5571-11e6-8d3a-b2526fcada24.png)
 
