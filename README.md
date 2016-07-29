@@ -61,4 +61,4 @@ When converted to geojson, it looks like this:
 The `dbgeo` node package transforms spatial data between various formats, and can easily take the database response from `pg-promise` and convert it into a valid GeoJSON feature.  Then this is passed back to express, to be passed back to the client, where it can be mapped using Leaflet or any other frontend library that supports geojson!
 
 ###Feedback
-We would love to hear your comments, success stories, or suggestions about this stack.  
+We would love to hear your comments or suggestions about this stack.
